@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\bin\Debug\net6.0\LinearDataStructures.exe
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\bin\Debug\net6.0\LinearDataStructures.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\bin\Debug\net6.0\LinearDataStructures.runtimeconfig.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\bin\Debug\net6.0\LinearDataStructures.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\bin\Debug\net6.0\LinearDataStructures.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\refint\LinearDataStructures.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\LinearDataStructures.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Classes\LinearDataStructures\LinearDataStructures\obj\Debug\net6.0\ref\LinearDataStructures.dll
